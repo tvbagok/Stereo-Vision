@@ -1,0 +1,1 @@
+This code is to measure the distance of a closest object to the camera pair introduced to  the computer. The calibration parameters are made specifically for C505 logitech cameras and able to correctly detect and measure the distance of the objects placed up until 3 meters away from the cameras. The distance might be increased or decreased by utilizing different field of view.
